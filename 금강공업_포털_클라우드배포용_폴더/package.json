@@ -1,0 +1,22 @@
+{
+  "name": "kumkang-test-report-portal",
+  "version": "1.0.0",
+  "description": "금강공업 시험성적의뢰 및 실시간 진행현황 추적 포털 시스템",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "keywords": [
+    "kumkang",
+    "test-report",
+    "portal",
+    "b2b",
+    "pwa"
+  ],
+  "author": "금강공업 주식회사",
+  "license": "UNLICENSED",
+  "private": true
+}
